@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesetch",
+        "uuid": 7737930,
+        "checksum": "43fs9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
